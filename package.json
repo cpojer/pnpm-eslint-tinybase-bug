@@ -1,0 +1,19 @@
+{
+  "name": "pnpm-eslint-tinybase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.12.0",
+    "@typescript-eslint/parser": "^7.12.0",
+    "eslint": "8",
+    "eslint-plugin-import": "^2.29.1",
+    "tinybase": "^4.8.11"
+  }
+}
